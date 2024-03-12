@@ -1,0 +1,19 @@
+#nav {
+height: 35px;
+width: 100%;
+border-bottom: 1px solid;
+padding-top: 10px;
+}
+
+.link {
+  margin: 10px;
+  text-decoration: none;
+  background-color: #ADD8E6;
+  padding: 0px 15px 3px 15px;
+  border-radius: 8px;
+  color: black;
+}
+
+.link:hover{
+  background-color: #8ec9e4;
+}
